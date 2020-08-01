@@ -51,6 +51,3 @@ class About extends Me
     }
 }
 ``` 
-
-### Some stats about Mirakhmad
-![Mirakhmad's stats](https://github-readme-stats.vercel.app/api?username=rin4ik&show_icons=true)
