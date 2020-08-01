@@ -47,7 +47,7 @@ class About extends Me
 
     public function getFutureGoal()
     {
-        return 'Staying up-to-date on any new development trends';
+        return 'Staying up-to-date on new development trends';
     }
 }
 ``` 
