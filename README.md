@@ -6,7 +6,7 @@ I'm a Computer Science Enthusiast, Full Stack Dev 🤓
 - 🎓 Computer Science graduate from Sumy,Ukraine
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
 - 💬 Ask me about anything and everything 
-- I ❤️ to think, learn, code, and customize everything
+- ❤️ to think, learn, code, and customize everything
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirakhmad-mirzajanov/)](https://www.linkedin.com/in/mirakhmad-mirzajanov/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.mirakhmad.com)](mailto:m.mirakhmad@gmail.com) 
