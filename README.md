@@ -1,4 +1,4 @@
-## 👋 Hello, visitor! May The Force be with you! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+## Hello, visitor 👋 May The Force be with you! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rin4ik" alt="mirakhmad" /> </p> 
 
