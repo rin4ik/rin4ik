@@ -10,7 +10,7 @@ I'm a Computer Science Enthusiast, Full Stack Dev 🤓
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirakhmad-mirzajanov/)](https://www.linkedin.com/in/mirakhmad-mirzajanov/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.mirakhmad.com)](mailto:m.mirakhmad@gmail.com) 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=flat-squaree&logo=telegram&logoColor=white)](https://t.me/Rin4ik94)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-squaree&logo=telegram&logoColor=white)](https://t.me/Rin4ik94)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
