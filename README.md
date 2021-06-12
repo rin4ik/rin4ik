@@ -4,7 +4,7 @@
 
 I'm a Computer Science Enthusiast, Full Stack Dev 🤓
 - 🎓 Computer Science graduate from Sumy,Ukraine
-- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
+- 🌱 I’m currently learning [Epic React](https://epicreact.dev/) 
 - 💬 Ask me about anything and everything 
 - ❤️ to think, learn, code, and customize everything
 - 📫 How to reach me:
