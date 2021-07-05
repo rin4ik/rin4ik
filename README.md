@@ -3,12 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rin4ik" alt="mirakhmad" /> </p> 
 Light
 
-[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Muhammadsher&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
 
-
-```md
-[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=boxa-developer&country_code=uzbekistan&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
-```
+[![Mirakhmad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=rin4ik&country_code=uzbekistan&theme=dark)](https://github.com/rin4ik)
 
 Dark
 I'm a Computer Science Enthusiast, Full Stack Dev 🤓
