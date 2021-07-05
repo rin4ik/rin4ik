@@ -1,7 +1,6 @@
 ## Hello, visitor 👋 May The Force be with you! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rin4ik" alt="mirakhmad" /> </p> 
-Light
 
 
 [![Mirakhmad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=rin4ik&country_code=uzbekistan&theme=dark)](https://github.com/rin4ik)
