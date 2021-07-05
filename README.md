@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rin4ik" alt="mirakhmad" /> </p> 
 
 
-[![Mirakhmad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=rin4ik&country_code=uzbekistan&theme=dark)](https://github.com/rin4ik)
+[![Mirakhmad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=rin4ik&country_code=uzbekistan&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
 
 Dark
 I'm a Computer Science Enthusiast, Full Stack Dev 🤓
