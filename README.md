@@ -1,8 +1,9 @@
 ## Hello, visitor 👋 May The Force be with you! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rin4ik" alt="mirakhmad" /> </p> 
+```md
 [![Mirakhmad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=rin4ik&country_code=uzbekistan&theme=dark)](https://github.com/rin4ik)
-
+```
 I'm a Computer Science Enthusiast, Full Stack Dev 🤓
 - 🎓 Computer Science graduate from Sumy,Ukraine
 - 🌱 I’m currently learning [Epic React](https://epicreact.dev/) 
