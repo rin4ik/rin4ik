@@ -39,8 +39,9 @@ class About extends Me
         return [
             Php::class,
             Javascript::class,
-            Laravel::class,
+            Laravel::class, 
             Vuejs::class,
+            Gridsome::class,
             Nuxt::class,
             Angular::class,
             Vuetify::class,
