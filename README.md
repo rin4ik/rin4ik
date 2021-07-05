@@ -1,9 +1,16 @@
 ## Hello, visitor 👋 May The Force be with you! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rin4ik" alt="mirakhmad" /> </p> 
+Light
+
+[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Muhammadsher&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
+
+
 ```md
-[![Mirakhmad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=rin4ik&country_code=uzbekistan&theme=dark)](https://github.com/rin4ik)
+[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=boxa-developer&country_code=uzbekistan&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
 ```
+
+Dark
 I'm a Computer Science Enthusiast, Full Stack Dev 🤓
 - 🎓 Computer Science graduate from Sumy,Ukraine
 - 🌱 I’m currently learning [Epic React](https://epicreact.dev/) 
